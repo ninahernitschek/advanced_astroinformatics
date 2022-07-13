@@ -3,9 +3,7 @@
 Advanced Astroinformatics (Universidad de Antofagasta) material for the project
 
 
-
-
-Variability detection and classification in astronomical datasets
+**Variability detection and classification in astronomical datasets**
 
 What is the problem? 
 
