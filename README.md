@@ -8,7 +8,7 @@ Advanced Astroinformatics (Universidad de Antofagasta) material for the project
 
 **Variability detection and classification in astronomical datasets**
 
-What is the problem? 
+*What is the problem?*
 
 Nowadays large-scale astronomical surveys enable us to see the universe in a much more detail. Currently, the methodological
 approach to analyze the gathered data is particularly different than the one implemented in the past. Historically, variable 
@@ -18,7 +18,7 @@ data, as well as to allow for a more precise evaluation of the data than done wi
 
 Approaches like that were already carried out and proven as very successful for some astronomical surveys such as Pan-STARRS1, which provided relatively sparse data.
 
-What does the project need to do?
+*What does this project entail?*
 
 The project is structured as follows:
 
@@ -33,7 +33,7 @@ The project is structured as follows:
 The outcome of this project will be a machine-learning program which is capable of classifying variable star light curves.
 
 
-How do you get started? 
+*How do you get started?*
 
 1) Code will be written in Python3.x. Code should be made available on github.
 
